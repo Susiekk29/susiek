@@ -1,41 +1,37 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Susie Kang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: BME Master Student @ Duke
 
 # Status emoji
 status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
+#organizations: Duke University
+#- name: ''
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m originally from China and pursued a Bachelor's degree in Biomedical Engineering at the University of Hong Kong. Keen to explore more, I continued with the BME Master’s program at Duke University, where I'm now a graduate student. My current research in Truskey's lab focuses on developing models representing myobundles’ physiology. This work is part of a broader effort to advance our understanding of muscle tissue engineering and its applications.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Tissue Engineering
+#- Biomaterials 
+#- Regenrative Medicine 
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: MS in Biomedical Engineering
+#    institution: Duke University
+#    year: 2025
+#  - course: BEng in Biomedical Engineering
+#    institution: The University of Hong Kong 
+#    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,8 +62,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
